@@ -2,7 +2,7 @@
 *.class
 
 # Serialized runtime data
-*.dat
+# *.dat
 
 # IDE files
 .idea/
